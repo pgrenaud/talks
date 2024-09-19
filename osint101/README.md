@@ -44,7 +44,10 @@ Full talk available on YouTube: https://www.youtube.com/watch?v=XKPxlctcidQ
 - https://en.wikipedia.org/wiki/Stalking
 - https://en.wikipedia.org/wiki/Identity_theft
 - https://www.youtube.com/watch?v=DoQT5i9Iz84 (“I owe you an explanation”, Linus Tech Tips)
+- https://www.youtube.com/watch?v=-duJtlw394U (“Our LAN Parties will be INSANE”, Linus Tech Tips)
 - https://ici.radio-canada.ca/tele/le-telejournal-18h/site/segments/reportage/465457/pont-ile-tourte-congestion-voiture-travaux
+- https://ici.radio-canada.ca/tele/le-telejournal-18h/site/segments/reportage/1796808/internet-photo-cambriolage-cle-clef-dememangement
+- https://www.youtube.com/watch?v=ZhMA-0s31SI (“Attention aux doubleurs de clés”, Radio-Canada Info)
 - https://burglarsguide.com/ (“A Burglar’s Guide to the City”, 2016)
 - https://www.canadapost-postescanada.ca/cpc/en/personal/mymail.page
 
