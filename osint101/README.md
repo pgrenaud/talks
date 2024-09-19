@@ -10,9 +10,17 @@
 >
 > Not convinced yet? This talk will also cover the following topics: metadata (d'oh!), physical keys (who doesn't like keys?), data in public registries, and conclude with Do's and Don'ts for everyone.
 
-Presented at NorthSec 2024: https://nsec.io/session/2024-i-will-look-for-you-and-i-will-find-you-osint-on-publicly-shared-pictures.html
+## Instances
 
-Full talk available on YouTube: https://www.youtube.com/watch?v=XKPxlctcidQ
+- Presented at NorthSec 2024: https://nsec.io/session/2024-i-will-look-for-you-and-i-will-find-you-osint-on-publicly-shared-pictures.html
+
+  Full talk recording available on YouTube: https://www.youtube.com/watch?v=XKPxlctcidQ
+
+- Presented at Colloque GARDESO 2024: https://gardeso.com/colloque-gardeso
+
+- Presented at GoSec 2024: https://app.swapcard.com/event/gosec-2024/planning/UGxhbm5pbmdfMjA3OTI3NQ== (https://gosec.net/)
+
+  Full talk recording available on YouTube: Soon™
 
 ## Tools
 
