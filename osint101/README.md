@@ -12,15 +12,17 @@
 
 ## Instances
 
-- Presented at NorthSec 2024: https://nsec.io/session/2024-i-will-look-for-you-and-i-will-find-you-osint-on-publicly-shared-pictures.html
+- Presented at NorthSec 2024: https://cfp.nsec.io/2024/talk/X7YUFZ/ (https://nsec.io/session/2024-i-will-look-for-you-and-i-will-find-you-osint-on-publicly-shared-pictures.html)
 
-  Full talk recording available on YouTube: https://www.youtube.com/watch?v=XKPxlctcidQ
+  ➡️ Full talk recording available on YouTube: https://www.youtube.com/watch?v=XKPxlctcidQ
 
 - Presented at Colloque GARDESO 2024: https://gardeso.com/colloque-gardeso
 
 - Presented at GoSec 2024: https://app.swapcard.com/event/gosec-2024/planning/UGxhbm5pbmdfMjA3OTI3NQ== (https://gosec.net/)
 
-  Full talk recording available on YouTube: Soon™
+  ➡️ Full talk recording available on YouTube: https://www.youtube.com/watch?v=zmvPgmGWg6Q
+
+- Presented at Hackfest 2024: https://cfp.hackfest.ca/hf2024/talk/LWWW3D/ (https://hackfest.ca/)
 
 ## Tools
 
@@ -64,6 +66,6 @@
 - My friends and family
 - Josée Nadeau (Sous les Oliviers)
 - Mathieu Prost (Radio-Canada)
-- Andréanne Bergeron (GoSecure) and Olivier Bilodeau (Flare)
+- Andréanne Bergeron (Flare) and Olivier Bilodeau (Flare)
 - Laurent Desaulniers (Mandiant)
 - Maxime Nadeau (GoSecure)
