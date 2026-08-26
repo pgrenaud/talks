@@ -1,6 +1,8 @@
-# I will look for you and I will find you: OSINT on publicly shared pictures
+# OSINT101
 
 ![I will look for you and I will find you: OSINT on publicly shared pictures](social-card.png)
+
+## [ENGLISH] I will look for you and I will find you: OSINT on publicly shared pictures
 
 > Liam Neeson is coming for you. But how will he find you? Come to this talk to learn how the picture of a firetruck you took in front of your house and shared on Instagram two years ago will be the source of your demise.
 >
@@ -9,6 +11,16 @@
 > I believe that understanding how OSINT works is key to better protect ourselves online. I'm aiming to give you the tools and knowledge to be better cybersecurity professionals, and learn to be more careful and diligent online, all in a (hopefully) fun and engaging way.
 >
 > Not convinced yet? This talk will also cover the following topics: metadata (d'oh!), physical keys (who doesn't like keys?), data in public registries, and conclude with Do's and Don'ts for everyone.
+
+## [FRANÇAIS] Je vous chercherai et je vous trouverai: OSINT sur des photos partagées publiquement
+
+> Liam Neeson est à vos trousses. Mais comment va-t-il vous retrouver? Venez à cette conférence pour découvrir comment la photo d'un camion de pompiers que vous avez prise devant votre maison et partagée sur Instagram il y a deux ans sera la source de votre disparition.
+>
+> Dans cette présentation, je partagerai comment j'ai développé cette habitude compulsive, dans laquelle j'ai besoin de trouver où une photo a été prise. Nous verrons ensemble comment effectuer de la recherche sur les données en source ouverte (OSINT) sur des images et des vidéos partagées publiquement, quels outils et techniques utiliser, accompagnés d'exemples réels étape par étape.
+>
+> Je crois que comprendre le fonctionnement de l'OSINT est essentiel pour mieux nous protéger en ligne. Mon objectif est de vous donner les outils et les connaissances nécessaires pour devenir de meilleurs professionnels de la cybersécurité et apprendre à être plus prudents et diligents en ligne, le tout d'une manière (espérons-le) amusante et engageante.
+>
+> Pas convaincu? Cette présentation couvrira également les sujets suivants: les plans d'étage, les pentests physiques, les clés physiques (qui n'aime pas les clés?), et se terminera par les choses à faire et à ne pas faire pour tout le monde.
 
 ## Instances
 
