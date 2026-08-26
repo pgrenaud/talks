@@ -1,6 +1,8 @@
 # Patricia Gagnon-Renaud — Talks
 
-## Talks Index
+Index of my talks, with abstracts and links to recordings, tools and sources.
+
+## Index
 
 ### 2024
 
